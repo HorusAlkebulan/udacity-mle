@@ -1,0 +1,10 @@
+# packages needed for practice
+name: udacity-mle
+
+channels:
+  - defaults
+
+dependencies:
+  - matplotlib
+  - python
+  
